@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Dropbox 2021/Dropbox (Privat)/Progging/Fritid - Progging/App mekking/Apps_AndroidStudio/Kommentator2021/app/src/main/res/drawable-v24/Kommentator2021_foreground.xml" value="0.2265625" />
+        <entry key="..\:/Dropbox 2021/Dropbox (Privat)/Progging/Fritid - Progging/App mekking/Apps_AndroidStudio/Kommentator2021/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3921875" />
+        <entry key="..\:/Dropbox 2021/Dropbox (Privat)/Progging/Fritid - Progging/App mekking/Apps_AndroidStudio/Kommentator2021/app/src/main/res/drawable/Kommentator2021_background.xml" value="0.3921875" />
+        <entry key="..\:/Dropbox 2021/Dropbox (Privat)/Progging/Fritid - Progging/App mekking/Apps_AndroidStudio/Kommentator2021/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3921875" />
+        <entry key="..\:/Dropbox 2021/Dropbox (Privat)/Progging/Fritid - Progging/App mekking/Apps_AndroidStudio/Kommentator2021/app/src/main/res/layout/activity_speech.xml" value="0.20416666666666666" />
+        <entry key="..\:/Dropbox 2021/Dropbox (Privat)/Progging/Fritid - Progging/App mekking/Apps_AndroidStudio/Kommentator2021/app/src/main/res/mipmap-anydpi-v26/Kommentator2021.xml" value="0.2265625" />
+        <entry key="..\:/Dropbox 2021/Dropbox (Privat)/Progging/Fritid - Progging/App mekking/Apps_AndroidStudio/Kommentator2021AndroidStudio/app/src/main/res/layout/activity_SpeechToText.xml" value="0.25833333333333336" />
+        <entry key="..\:/Dropbox 2021/Dropbox (Privat)/Progging/Fritid - Progging/App mekking/Apps_AndroidStudio/Kommentator2021AndroidStudio/app/src/main/res/layout/activity_item_detail.xml" value="0.2798913043478261" />
+        <entry key="..\:/Dropbox 2021/Dropbox (Privat)/Progging/Fritid - Progging/App mekking/Apps_AndroidStudio/Kommentator2021AndroidStudio/app/src/main/res/layout/activity_main.xml" value="0.32794830371567046" />
+        <entry key="..\:/Dropbox 2021/Dropbox (Privat)/Progging/Fritid - Progging/App mekking/Apps_AndroidStudio/Kommentator2021AndroidStudio/app/src/main/res/layout/fragment_item_detail.xml" value="0.21145833333333333" />
+        <entry key="..\:/Dropbox 2021/Dropbox (Privat)/Progging/Fritid - Progging/App mekking/Apps_AndroidStudio/Kommentator2021Pure/app/src/main/res/layout-sw600dp/fragment_item_detail.xml" value="0.19375" />
+        <entry key="..\:/Dropbox 2021/Dropbox (Privat)/Progging/Fritid - Progging/App mekking/Apps_AndroidStudio/Kommentator2021Pure/app/src/main/res/layout/activity_SpeechToText.xml" value="0.26992753623188404" />
+        <entry key="..\:/Dropbox 2021/Dropbox (Privat)/Progging/Fritid - Progging/App mekking/Apps_AndroidStudio/Kommentator2021Pure/app/src/main/res/layout/fragment_item_detail.xml" value="0.21145833333333333" />
+        <entry key="..\:/Dropbox 2021/Dropbox (Privat)/Progging/Fritid - Progging/App mekking/Apps_AndroidStudio/Speech to text text to speech chatbot/kommentator2021/app/src/main/res/layout/activity_speech.xml" value="0.30344202898550726" />
+        <entry key="..\:/Dropbox 2021/Dropbox (Privat)/Progging/Fritid - Progging/App mekking/Apps_AndroidStudio/kommentator2021/app/src/main/res/drawable-v24/kommentator2021_foreground.xml" value="0.21302083333333333" />
+        <entry key="..\:/Dropbox 2021/Dropbox (Privat)/Progging/Fritid - Progging/App mekking/Apps_AndroidStudio/kommentator2021/app/src/main/res/drawable/kommentator2021_background.xml" value="0.21302083333333333" />
+        <entry key="..\:/Dropbox 2021/Dropbox (Privat)/Progging/Fritid - Progging/App mekking/Apps_AndroidStudio/kommentator2021/app/src/main/res/layout/activity_speech.xml" value="0.33" />
+        <entry key="..\:/Dropbox 2021/Dropbox (Privat)/Progging/Fritid - Progging/App mekking/Apps_AndroidStudio/kommentator2021/app/src/main/res/layout/item_list_content.xml" value="0.19067028985507245" />
+        <entry key="..\:/Dropbox 2021/Dropbox (Privat)/Progging/Fritid - Progging/Java/Workspace 2021.12/Kommentator2021AndroidStudio/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.38769230769230767" />
+        <entry key="..\:/Dropbox 2021/Dropbox (Privat)/Progging/Fritid - Progging/Java/Workspace 2021.12/Kommentator2021AndroidStudio/app/src/main/res/drawable/ic_launcher_background.xml" value="0.38769230769230767" />
+        <entry key="..\:/Dropbox 2021/Dropbox (Privat)/Progging/Fritid - Progging/Java/Workspace 2021.12/Kommentator2021AndroidStudio/app/src/main/res/layout-sw600dp/fragment_item_detail.xml" value="0.1711065573770492" />
+        <entry key="..\:/Dropbox 2021/Dropbox (Privat)/Progging/Fritid - Progging/Java/Workspace 2021.12/Kommentator2021AndroidStudio/app/src/main/res/layout-sw600dp/fragment_item_list.xml" value="0.1711065573770492" />
+        <entry key="..\:/Dropbox 2021/Dropbox (Privat)/Progging/Fritid - Progging/Java/Workspace 2021.12/Kommentator2021AndroidStudio/app/src/main/res/layout/activity_item_detail.xml" value="0.2269021739130435" />
+        <entry key="..\:/Dropbox 2021/Dropbox (Privat)/Progging/Fritid - Progging/Java/Workspace 2021.12/Kommentator2021AndroidStudio/app/src/main/res/layout/activity_main.xml" value="0.40989583333333335" />
+        <entry key="..\:/Dropbox 2021/Dropbox (Privat)/Progging/Fritid - Progging/Java/Workspace 2021.12/Kommentator2021AndroidStudio/app/src/main/res/layout/fragment_item_detail.xml" value="0.2269021739130435" />
+        <entry key="..\:/Dropbox 2021/Dropbox (Privat)/Progging/Fritid - Progging/Java/Workspace 2021.12/Kommentator2021AndroidStudio/app/src/main/res/layout/fragment_item_list.xml" value="0.2269021739130435" />
+        <entry key="..\:/Dropbox 2021/Dropbox (Privat)/Progging/Fritid - Progging/Java/Workspace 2021.12/Kommentator2021AndroidStudio/app/src/main/res/layout/item_list_content.xml" value="0.2269021739130435" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".view.View_Main">
+
+    <RelativeLayout
+        android:id="@+id/layOut1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="24dp"
+        android:backgroundTint="#720FD5"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="-83dp">
+
+        <ImageView
+            android:id="@+id/buttonListenRespond"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_below="@id/layOut1"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="25dp"
+            android:layout_marginTop="0dp"
+            android:layout_marginRight="25dp"
+            android:background="@drawable/kommentator2021_foreground"
+            android:backgroundTint="#D50F0F"
+            android:paddingRight="10dp"
+            android:scaleType="fitXY"
+            android:scaleX="1.5"
+            android:scaleY="1.5"
+            android:visibility="visible"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="0dp" />
+
+        <TextView
+            android:id="@+id/respondButtonText"
+            android:layout_width="100dp"
+            android:layout_height="20dp"
+            android:layout_below="@id/layOut1"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="25dp"
+            android:layout_marginTop="80dp"
+            android:layout_marginRight="25dp"
+            android:textStyle="bold"
+            android:hint="Respond mode" />
+
+        <ImageView
+            android:id="@+id/buttonContinueListen"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_below="@id/buttonListenRespond"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="25dp"
+            android:layout_marginTop="0dp"
+            android:layout_marginRight="25dp"
+            android:background="@drawable/kommentator2021_foreground"
+            android:backgroundTint="#3E503C"
+            android:paddingRight="10dp"
+            android:scaleType="fitXY"
+            android:scaleX="1.5"
+            android:scaleY="1.5"
+            android:visibility="visible"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="0dp" />
+
+        <TextView
+            android:id="@+id/listenButtonText"
+            android:layout_width="100dp"
+            android:layout_height="20dp"
+            android:layout_below="@id/buttonContinueListen"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="false"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="80dp"
+            android:layout_marginRight="0dp"
+            android:hint="Listening mode"
+            android:textStyle="bold"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body2" />
+
+        <TextView
+            android:id="@+id/Mode"
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:layout_below="@id/buttonContinueListen"
+            android:layout_marginTop="40dp"
+            android:hint="Listening mode: " />
+
+        <TextView
+            android:id="@+id/ProgressText"
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:layout_below="@id/Mode"
+            android:layout_marginTop="0dp"
+            android:hint="Tap icon to record" />
+
+        <TextView
+            android:id="@+id/item_InputText"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_below="@id/ProgressText"
+            android:layout_marginTop="40dp"
+            android:hint="Speech to text" />
+
+        <TextView
+            android:id="@+id/item_OutputText"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_below="@id/item_InputText"
+            android:layout_marginTop="40dp"
+            android:hint="Text to speech" />
+
+    </RelativeLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
